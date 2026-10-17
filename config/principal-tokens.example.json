@@ -1,0 +1,7 @@
+{
+  "<sha256-hex-digest-of-individual-token>": {
+    "subject": "example-service-identity",
+    "roles": ["analyst"],
+    "platform_scopes": ["ds3"]
+  }
+}
